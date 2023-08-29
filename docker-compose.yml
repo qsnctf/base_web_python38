@@ -1,6 +1,6 @@
-version: "2"
+version: "3"
 services:
-  web:
+  challenges:
     build: .
     image: qsnctf/base_web_python38
     ports:
